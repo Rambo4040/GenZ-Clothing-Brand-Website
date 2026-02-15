@@ -1,6 +1,6 @@
 import Hero from "../components/Hero";
 import Categories from "../components/Categories";
-import BestSellers from "../components/Bestsellers";
+import BestSellers from "../components/BestSellers";
 import GenderSection from "../components/GenderSection";
 import Reviews from "../components/Reviews";
 import { Reveal } from "../hooks/useReveal";
